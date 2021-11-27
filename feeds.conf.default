@@ -5,3 +5,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git bypass https://github.com/kiddin9/openwrt-bypass.git
+src-git libev https://github.com/shadowsocks/shadowsocks-libev.git
